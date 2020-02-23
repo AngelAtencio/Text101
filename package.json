@@ -1,0 +1,26 @@
+{
+  "name": "hyperflux",
+  "version": "1.0.0",
+  "description": "C# Hyperflux game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d hyperflux_game"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelAtencio/Text101.git"
+  },
+  "author": "Angel Atencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelAtencio/Text101/issues"
+  },
+  "homepage": "https://github.com/AngelAtencio/Text101#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
